@@ -2,6 +2,7 @@
   font-size: 34px;
   border-style: solid;
   border-color: grey;
+  border-radius: 13px;
   opacity: 87%;
 }
 #title {
@@ -40,6 +41,7 @@ body {
   position: absolute;
   top: 5px;
   right: 13px;
+  border-radius: 4px;
   text-align: center;
   vertical-align: middle;
 }
@@ -103,6 +105,7 @@ body {
   font-size: 25px;
   border-style: solid;
   border-color: grey;
+  border-radius: 9px;
   text-decoration: none;
 }
 #whiteheadpage {
